@@ -5,8 +5,7 @@ This respository contains my MSC CSN1117 eSecurity Coursework.
 
 To create and run the code I used Visual Studio Code and a Python virtual environment running Python 3.7
 
-This can be set up as follows:
-
-Ensure the Python extension is installed in VS Code. 
-In the VS Code console perform the following steps:
+Install Pyfhel using pip install Pyfhel
+Download the code from this repository
+Run the Python files using python run 
 
